@@ -1,19 +1,18 @@
-# README
+# README 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is for me to test coding with Ruby and use Git as a version control service.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version (Ruby 2,3,1)
 
-* System dependencies
+* System (OSX 10.11 VM in WMWare Workstation)
 
 * Configuration
 
-* Database creation
+* Database creation 
 
-* Database initialization
+* Database initialization 
 
 * How to run the test suite
 
@@ -21,4 +20,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
